@@ -1,3 +1,1 @@
-Hello update master
-
-Add issue 1
+master
